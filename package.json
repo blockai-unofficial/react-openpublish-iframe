@@ -1,7 +1,7 @@
 {
-  "name": "react-openpublish-doc",
+  "name": "react-openpublish-iframe",
   "version": "0.0.1",
-  "description": "A React component for displaying information about documents registered with Open Publish.",
+  "description": "A React component for displaying an embeddable Open Publish document.",
   "main": "build/index.js",
   "scripts": {
     "build": "make",
@@ -12,7 +12,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/blockai/react-openpublish-doc.git"
+    "url": "git+https://github.com/blockai/react-openpublish-iframe.git"
   },
   "keywords": [
     "react",
@@ -28,9 +28,9 @@
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/blockai/react-openpublish-doc/issues"
+    "url": "https://github.com/blockai/react-openpublish-iframe/issues"
   },
-  "homepage": "https://github.com/blockai/react-openpublish-doc#readme",
+  "homepage": "https://github.com/blockai/react-openpublish-iframe#readme",
   "dependencies": {
     "browser-request": "^0.3.3",
     "md5": "^2.0.0",

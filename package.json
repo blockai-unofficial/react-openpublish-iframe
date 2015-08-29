@@ -1,6 +1,6 @@
 {
   "name": "react-openpublish-iframe",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A React component for displaying an embeddable Open Publish document.",
   "main": "build/index.js",
   "scripts": {

@@ -1,0 +1,58 @@
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/williamcotton\/Projects\/react-openpublish-iframe\/src\/index\.scss}line{font-family:\000031}}
+.react-openpublish-iframe {
+  padding: 15px; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/williamcotton\/Projects\/react-openpublish-iframe\/src\/index\.scss}line{font-family:\000033}}
+  .react-openpublish-iframe .top-bar {
+    display: flex;
+    justify-content: space-between; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/williamcotton\/Projects\/react-openpublish-iframe\/src\/index\.scss}line{font-family:\000036}}
+    .react-openpublish-iframe .top-bar .publish-info {
+      display: flex; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/williamcotton\/Projects\/react-openpublish-iframe\/src\/index\.scss}line{font-family:\000038}}
+      .react-openpublish-iframe .top-bar .publish-info .avatarImage {
+        margin-right: 15px; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/williamcotton\/Projects\/react-openpublish-iframe\/src\/index\.scss}line{font-family:\0000310}}
+        .react-openpublish-iframe .top-bar .publish-info .avatarImage img {
+          width: 40px; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/williamcotton\/Projects\/react-openpublish-iframe\/src\/index\.scss}line{font-family:\0000315}}
+      .react-openpublish-iframe .top-bar .publish-info .author-and-time h4 {
+        margin: 0;
+        color: #875db6; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/williamcotton\/Projects\/react-openpublish-iframe\/src\/index\.scss}line{font-family:\0000322}}
+    .react-openpublish-iframe .top-bar .linkUrl .link {
+      background-image: url(https://www.blockai.com/images/chain@3x.png);
+      background-size: 20px 20px;
+      display: inline-block;
+      width: 20px;
+      height: 20px;
+      text-indent: -5000px; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/williamcotton\/Projects\/react-openpublish-iframe\/src\/index\.scss}line{font-family:\0000333}}
+  .react-openpublish-iframe .media img {
+    width: 100%; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/williamcotton\/Projects\/react-openpublish-iframe\/src\/index\.scss}line{font-family:\0000337}}
+  .react-openpublish-iframe .actions {
+    margin-top: 15px;
+    color: #9f9f9f; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/williamcotton\/Projects\/react-openpublish-iframe\/src\/index\.scss}line{font-family:\0000341}}
+    .react-openpublish-iframe .actions .tips .tip-count, .react-openpublish-iframe .actions .tips .tipping {
+      color: #616161;
+      margin-left: 10px; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/williamcotton\/Projects\/react-openpublish-iframe\/src\/index\.scss}line{font-family:\0000346}}
+    .react-openpublish-iframe .actions .tips button {
+      background-image: url(https://www.blockai.com/images/tip-blue.png);
+      background-size: 27px 25px;
+      display: inline-block;
+      width: 27px;
+      height: 25px;
+      border: none;
+      background-color: transparent;
+      text-indent: -5000px; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/williamcotton\/Projects\/react-openpublish-iframe\/src\/index\.scss}line{font-family:\0000356}}
+      .react-openpublish-iframe .actions .tips button:disabled {
+        opacity: 0.3; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/williamcotton\/Projects\/react-openpublish-iframe\/src\/index\.scss}line{font-family:\0000360}}
+    .react-openpublish-iframe .actions .tips .receipt {
+      color: #2bb7e2;
+      margin-left: 30px; }
+
+/*# sourceMappingURL=example.css.map */
